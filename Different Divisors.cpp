@@ -38,6 +38,7 @@ void solve()
 
 int main()
 {
+    ios_base::sync_with_stdio(false);
     Gharbal(maxn, mark);
 
 
@@ -48,3 +49,4 @@ int main()
 
     return 0;
 }
+
