@@ -42,7 +42,6 @@ int main()
     }
 
     vector<pair <char, long long>> closest(8, {' ', LLONG_MAX});
-    //ino LLONG_MAX o to internet didam doctor ha
 
     for(int i = 0; i < n; ++i)
     {
@@ -134,3 +133,4 @@ int main()
 
     return 0;
 }
+
